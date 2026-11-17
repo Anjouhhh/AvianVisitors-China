@@ -1,0 +1,610 @@
+{
+ "format": "avian-visitors-asset-pack",
+ "format_version": 1,
+ "id": "community-anjouhhh-china-kachoe",
+ "version": "1.0.0",
+ "name": "Japanese Woodblock - China (partial)",
+ "description": "Japanese woodblock (kachō-e) style birds for eastern and southern China: 32 common garden and city species missing from other bundles, perched and flight poses.",
+ "style": {
+  "id": "japanese-woodblock",
+  "name": "Japanese Woodblock"
+ },
+ "coverage": {
+  "type": "selection",
+  "label": "China (partial): common birds of eastern and southern China",
+  "region_codes": [
+   "CN"
+  ]
+ },
+ "license": {
+  "spdx": "CC-BY-NC-SA-4.0",
+  "file": "LICENSES/CC-BY-NC-SA-4.0.txt"
+ },
+ "attribution": {
+  "creator": "Anjouhhh",
+  "source_url": "https://github.com/Anjouhhh/AvianVisitors-China"
+ },
+ "provenance": {
+  "method": "generated",
+  "model": "OpenAI image generation (Codex CLI built-in image_gen tool)",
+  "review": "contributor-reviewed"
+ },
+ "species": [
+  {
+   "scientific_name": "Aegithalos concinnus",
+   "common_name": "Black-throated Bushtit",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/aegithalos-concinnus.png",
+     "bytes": 590523,
+     "sha256": "073486974021dea15c0273b5a246cef5130dacdce6d73f4daf20c2b2041c28b6"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/aegithalos-concinnus-2.png",
+     "bytes": 766916,
+     "sha256": "d6d7aebb3921f16c1a8b932feda2bc21706fdd156af920f643ff8409609f4566"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Aegithalos glaucogularis",
+   "common_name": "Silver-throated Bushtit",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/aegithalos-glaucogularis.png",
+     "bytes": 582827,
+     "sha256": "3d7bcf5981264fc5dbeafd543cd3e7dbeae2a070ee12373c757f3504b0e4aea5"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/aegithalos-glaucogularis-2.png",
+     "bytes": 723750,
+     "sha256": "ddde43a2bc659134cdf652d068c746c557a162264073a5ed5f8fddcfd1d48a8d"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Aethopyga christinae",
+   "common_name": "Fork-tailed Sunbird",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/aethopyga-christinae.png",
+     "bytes": 527375,
+     "sha256": "6d7ff3eb0fb5a3a8207c2e0bcd6cee59fdbd45b6e82a98646ae8a13b148ac39d"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/aethopyga-christinae-2.png",
+     "bytes": 724601,
+     "sha256": "220a4a3299348e49f16cc61595dca47fb9941865976730ea26487124ae1fd6de"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Amaurornis phoenicurus",
+   "common_name": "White-breasted Waterhen",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/amaurornis-phoenicurus.png",
+     "bytes": 613775,
+     "sha256": "590b4ad76d75819cc6c8167b3cdbabf880f287f1604fc3e0f6e96ccf6da43bfe"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/amaurornis-phoenicurus-2.png",
+     "bytes": 765727,
+     "sha256": "3816559230bc695c5a75dc8c32e4ba7cfccf72e35940c06a8fe4fd50827edf58"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Chloris sinica",
+   "common_name": "Grey-capped Greenfinch",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/chloris-sinica.png",
+     "bytes": 547144,
+     "sha256": "3251697c24700205526c38d68e210124d619caba35b1503fab21a3350b628dcf"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/chloris-sinica-2.png",
+     "bytes": 832961,
+     "sha256": "10102457d5ed95624d1849c913268fc4aa41685fce9e0e5096afac9dff71111d"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Copsychus saularis",
+   "common_name": "Oriental Magpie-Robin",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/copsychus-saularis.png",
+     "bytes": 500578,
+     "sha256": "62439ee4b12c45b2ff4a253a34531641ef402bea5e4dd72e68e69b78d34c0a76"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/copsychus-saularis-2.png",
+     "bytes": 718772,
+     "sha256": "6da380f62a6d8b688ef05bef3a1d0e95d8384b524bdccdefcf6d8513b53c78e6"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Corvus macrorhynchos",
+   "common_name": "Large-billed Crow",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/corvus-macrorhynchos.png",
+     "bytes": 609345,
+     "sha256": "6f03ef417dda4cd84cd81cfa4296987a3f8e57d30b3aec9a744a091bc3c28ad1"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/corvus-macrorhynchos-2.png",
+     "bytes": 922176,
+     "sha256": "e823f3571580a20ca5f77abb3de5eed76d5220f6e2ec413416c1a9469a1db5dc"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Corvus torquatus",
+   "common_name": "Collared Crow",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/corvus-torquatus.png",
+     "bytes": 552467,
+     "sha256": "9691a36d6d01cb15143a52f8856f6fecf953e44d8f4cac023df29e396e98b3a5"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/corvus-torquatus-2.png",
+     "bytes": 941944,
+     "sha256": "bd33fadd5de5482a054afacc8955f4500caad925e253d1cc4143373b6036520e"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Cyanopica cyanus",
+   "common_name": "Azure-winged Magpie",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/cyanopica-cyanus.png",
+     "bytes": 496430,
+     "sha256": "b1d58d44352a163a22b0d04ef0ec10b28549ed9a04edce98a1b9382e4c1d9b82"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/cyanopica-cyanus-2.png",
+     "bytes": 776691,
+     "sha256": "0f83442ac68be89b99ba41b0330c65545e71220eb19100d04afe03ffc4465ae9"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Dicrurus macrocercus",
+   "common_name": "Black Drongo",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/dicrurus-macrocercus.png",
+     "bytes": 470906,
+     "sha256": "94a2d92e7ce1bbcdfc98c3a82b6ce3e565a6d8a79915453a839ab46e20090e59"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/dicrurus-macrocercus-2.png",
+     "bytes": 759454,
+     "sha256": "b2ed0bb064f615c4e385c04e17c6ae6d1daec1885b224dc474284ffd5f6677c3"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Eudynamys scolopaceus",
+   "common_name": "Asian Koel",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/eudynamys-scolopaceus.png",
+     "bytes": 594439,
+     "sha256": "c484a0ed5b9f9786b620d328846672eaeeb382907b8963cc89e05e095971cbcb"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/eudynamys-scolopaceus-2.png",
+     "bytes": 776576,
+     "sha256": "9abe77760a804d09a5976449e5cd863ba7c0c177d62eb64eff9fddecd1b07db1"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Garrulax canorus",
+   "common_name": "Chinese Hwamei",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/garrulax-canorus.png",
+     "bytes": 602245,
+     "sha256": "da5d0fa295c9f3b4e807bd15129fcf8372f0f8c4a5fa65efe6ef4c2674bf1b9c"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/garrulax-canorus-2.png",
+     "bytes": 830796,
+     "sha256": "3e8eff7c22097bb2b7d9fc03c50e685ef0a0e96f40acd7a3b62884133485e452"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Halcyon smyrnensis",
+   "common_name": "White-throated Kingfisher",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/halcyon-smyrnensis.png",
+     "bytes": 544819,
+     "sha256": "b5c2775497fc99bf6c63be5943f4d2b99874749b0b8b3c5a9b69b787b6b4d3a8"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/halcyon-smyrnensis-2.png",
+     "bytes": 905373,
+     "sha256": "01c365959d59c94258a2a6b8a92fb2b833aab360df84574c0a59498b6e6c9410"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Hypsipetes leucocephalus",
+   "common_name": "Black Bulbul",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/hypsipetes-leucocephalus.png",
+     "bytes": 473308,
+     "sha256": "a5cf82810d4b4d1802b03fdedd734b62bf838e19f8fca23ed3e0e3f0e793881f"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/hypsipetes-leucocephalus-2.png",
+     "bytes": 753237,
+     "sha256": "a16d9497d0c64b8a71c42d6d3f383835bc515b65927c5d3202f7a804d2d49b41"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Oriolus chinensis",
+   "common_name": "Black-naped Oriole",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/oriolus-chinensis.png",
+     "bytes": 535388,
+     "sha256": "c2f163d208d9ed8347531198a22442ad3c8e2606b3f529cc05a81fe220153116"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/oriolus-chinensis-2.png",
+     "bytes": 763450,
+     "sha256": "b4f952f98a4856f2156161d62f1171a68c1f4c904901f15332d1763135d06c10"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Orthotomus sutorius",
+   "common_name": "Common Tailorbird",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/orthotomus-sutorius.png",
+     "bytes": 470873,
+     "sha256": "ebf8114759d27601573afa76d270deaa256e37a3f3ee1c3d8ce41962fb29f4f9"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/orthotomus-sutorius-2.png",
+     "bytes": 844944,
+     "sha256": "4b03e14833b9dc845b0ec4c8b5a32af02c147e902608c75d575644a79ace39cf"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Pardaliparus venustulus",
+   "common_name": "Yellow-bellied Tit",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/pardaliparus-venustulus.png",
+     "bytes": 517094,
+     "sha256": "81128244a0641c9cf5403fd6923ac682feca358df866536d06ee2b42599649df"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/pardaliparus-venustulus-2.png",
+     "bytes": 730061,
+     "sha256": "35d5a2c35290b384c224ff552b4d845ea79d9e8f4785e579b56cfff47fec06d6"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Parus minor",
+   "common_name": "Japanese Tit",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/parus-minor.png",
+     "bytes": 529781,
+     "sha256": "f8f7ffccdadac658ba0e3335ab6fc99b597b8c2028ffd39a406110818f8d2bb3"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/parus-minor-2.png",
+     "bytes": 782522,
+     "sha256": "e255c24b84dc0ebfe1088fd05ef850afbb2eaece3c8e26a1a250a7d711c7804f"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Phoenicurus auroreus",
+   "common_name": "Daurian Redstart",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/phoenicurus-auroreus.png",
+     "bytes": 605446,
+     "sha256": "3d9482f65353e50b30ff085195c071e74794da2e7a0d4959b3484e0a60d20410"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/phoenicurus-auroreus-2.png",
+     "bytes": 782145,
+     "sha256": "b6afa190eeb0c70adac5a4be6189eb8645d1d4f044444b4b1ec6613fd066bda5"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Prinia inornata",
+   "common_name": "Plain Prinia",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/prinia-inornata.png",
+     "bytes": 566208,
+     "sha256": "a6a45a57c044013ba46a962aa8a8adb31fbbb94439731a1fac68f7904c33f692"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/prinia-inornata-2.png",
+     "bytes": 767166,
+     "sha256": "5f19e5eb0f7fb4dede45707a0631607871b947d84cc1cf8781e029ddd394aec1"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Pterorhinus perspicillatus",
+   "common_name": "Masked Laughingthrush",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/pterorhinus-perspicillatus.png",
+     "bytes": 628547,
+     "sha256": "ffd20c52f7e40be0ac433fd5234be6410de1f3c0f688254f343f1f4a8c77964d"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/pterorhinus-perspicillatus-2.png",
+     "bytes": 952812,
+     "sha256": "7307622665e51652def0aebf956cb2b2ac1f90634131a5a5f45eea3326fec53d"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Pterorhinus sannio",
+   "common_name": "White-browed Laughingthrush",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/pterorhinus-sannio.png",
+     "bytes": 638003,
+     "sha256": "1f8d62a18b0c4ee40dd9a713c025f2f6d9b362a2e822a5af5e3a1ea6f498c206"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/pterorhinus-sannio-2.png",
+     "bytes": 932347,
+     "sha256": "b5b3ffe8350724d4f3e8cb8faa6a884b8af57a077b608d0b0252d14ddd42381a"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Pycnonotus aurigaster",
+   "common_name": "Sooty-headed Bulbul",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/pycnonotus-aurigaster.png",
+     "bytes": 589892,
+     "sha256": "f7b163d3ce2e15d67d14a5e2807eb901382fd6500fc044c84646c7853d26df14"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/pycnonotus-aurigaster-2.png",
+     "bytes": 853333,
+     "sha256": "0611d21bc21fd12677e807dfe88199ae07a92ac12ff8fc1cd1cb89188f0f62cd"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Pycnonotus sinensis",
+   "common_name": "Light-vented Bulbul",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/pycnonotus-sinensis.png",
+     "bytes": 634554,
+     "sha256": "bd41832e4a41b4d3dcb38ee41e4223cb9f0d7813417396e3f33f637b9e9fb5cf"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/pycnonotus-sinensis-2.png",
+     "bytes": 859917,
+     "sha256": "ef8c9e48207b3788c59222a518d744dc6abb59eb41edd60b599851227286907c"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Pycnonotus xanthorrhous",
+   "common_name": "Brown-breasted Bulbul",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/pycnonotus-xanthorrhous.png",
+     "bytes": 588998,
+     "sha256": "678612114b42fef49f779a4f60c334cd7f08be74d7e41fb05387109ad9446a2e"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/pycnonotus-xanthorrhous-2.png",
+     "bytes": 800505,
+     "sha256": "30f6e8b10233f2b74f3df5c44670a74f51ab4893adce4033e2a9690ecc6fe1db"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Sinosuthora webbiana",
+   "common_name": "Vinous-throated Parrotbill",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/sinosuthora-webbiana.png",
+     "bytes": 484462,
+     "sha256": "fe9c9f113a3c90e4604bee5fe7f8ad782ff563c3c38b30ac6ba0c7fbd7a7f518"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/sinosuthora-webbiana-2.png",
+     "bytes": 750498,
+     "sha256": "700303fc214d806cce130fd561519b1307cd3915b61a782e4accd1a3065f65e8"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Spodiopsar cineraceus",
+   "common_name": "White-cheeked Starling",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/spodiopsar-cineraceus.png",
+     "bytes": 647488,
+     "sha256": "c06d31a4d232ea9018a87d3da1d670bacece9f0b4a9ae22115579dc9c82b074d"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/spodiopsar-cineraceus-2.png",
+     "bytes": 885670,
+     "sha256": "d3aa0d65578fdca90005475ff8aff56b7dd80eb77a4802bad7d2f4af79afdeb7"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Spodiopsar sericeus",
+   "common_name": "Red-billed Starling",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/spodiopsar-sericeus.png",
+     "bytes": 673102,
+     "sha256": "1b0a3be2f596a8eb541b96ff8ca030f42b3758f7b8bf349d611c8731618c717e"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/spodiopsar-sericeus-2.png",
+     "bytes": 836156,
+     "sha256": "2d0aa0d262070c2cdb9d058a253dc9bd8a66b2f96ad699a8276d3ed9184070bd"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Turdus mandarinus",
+   "common_name": "Chinese Blackbird",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/turdus-mandarinus.png",
+     "bytes": 610783,
+     "sha256": "c7a549883e552667e53454c763e7b5f25a287818bd3770f3905fedeab932953f"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/turdus-mandarinus-2.png",
+     "bytes": 776258,
+     "sha256": "0bcb695d5c968bf7a3c2f1ee7977d0c5e768a435b0f05ec788341029e423dab5"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Urocissa erythroryncha",
+   "common_name": "Red-billed Blue Magpie",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/urocissa-erythroryncha.png",
+     "bytes": 456222,
+     "sha256": "ce39bcc0eb33a5f496d188ead06898c8d33d525c486e65a909f6b625bcb61646"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/urocissa-erythroryncha-2.png",
+     "bytes": 739801,
+     "sha256": "3d72a779becdbbb4ae77b23faf06040f4c80fa116c3e89afddff0d6222ffc396"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Yungipicus canicapillus",
+   "common_name": "Grey-capped Pygmy Woodpecker",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/yungipicus-canicapillus.png",
+     "bytes": 769112,
+     "sha256": "11eff0173fdff11618c1a63122ae41d53558c1bf09085243088f332b295158e8"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/yungipicus-canicapillus-2.png",
+     "bytes": 789182,
+     "sha256": "bb1d1c70b2afe851f0c0bb19dc0f26410e6e4d5887c669a0c9462c6c4b1d8d0a"
+    }
+   ]
+  },
+  {
+   "scientific_name": "Zosterops simplex",
+   "common_name": "Swinhoe's White-eye",
+   "poses": [
+    {
+     "id": "perched",
+     "file": "illustrations/zosterops-simplex.png",
+     "bytes": 512924,
+     "sha256": "ff4c380f57a6e2f56e0ac5def09a03f91a1c01ca10d0bbe98242be8a9afb2f59"
+    },
+    {
+     "id": "flight",
+     "file": "illustrations/zosterops-simplex-2.png",
+     "bytes": 775607,
+     "sha256": "c2cd160d1ff976ad791f556970536f35d427a2d37936560a252ef1f2098b13d4"
+    }
+   ]
+  }
+ ]
+}
