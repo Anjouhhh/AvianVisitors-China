@@ -28,7 +28,7 @@ White-cheeked Starling, White-throated Kingfisher, Yellow-bellied Tit, Asian Koe
 
 ## License
 
-CC BY-NC-SA 4.0 (see `LICENSES/CC-BY-NC-SA-4.0.txt`). Non-commercial use only. Creator: Anjouhhh.
+CC BY-NC-SA 4.0 (see `LICENSE`). Non-commercial use only. Creator: Anjouhhh.
 
 ## Files
 
